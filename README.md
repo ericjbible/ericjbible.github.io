@@ -32,6 +32,10 @@ Take a look at these other work examples that I have in my own portfolio:
 
 **Finger Lakes StarGazers Society APOD:** https://github.com/ericjbible/nasa
 
+**JD Images:** https://github.com/ericjbible/JDimages
+
+**Ashleigh Michael Photography:** https://github.com/ericjbible/AMphotography
+
 ## Fullstack Examples:
 Take a look at these Fullstack apps that I have in my own portfolio:
 
