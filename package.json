@@ -1,0 +1,23 @@
+{
+  "name": "ericjbible.github.io",
+  "version": "1.0.0",
+  "description": "This project is a template based frontend project to showcase my resume skills in the context of Web Development. It is meant to be used as a landing page for my Upwork profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericjbible/ericjbible.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericjbible/ericjbible.github.io/issues"
+  },
+  "homepage": "https://github.com/ericjbible/ericjbible.github.io#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
